@@ -1,0 +1,6 @@
+pandas == 1.4.4
+streamlit == 1.11.0
+matplotlib == 3.5.2
+sklearn
+pickleshare==0.7.5
+Flask==2.1.3
